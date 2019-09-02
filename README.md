@@ -1,3 +1,3 @@
-# Sverchok Nodes Easy Presets
+# Sverchok Nodes : Easy Presets
 
 Easy setup nodes for expansion
