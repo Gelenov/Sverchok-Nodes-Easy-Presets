@@ -1,3 +1,3 @@
-# testing
-Test page repository only
-Only testing for upcoming Blender sound/audio ideas
+# Sverchok Nodes Easy Presets
+
+Easy setup nodes for expansion
